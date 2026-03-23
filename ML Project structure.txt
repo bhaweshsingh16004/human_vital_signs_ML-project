@@ -1,0 +1,6 @@
+MLprojects/
+│
+├─ human_vital_signs_ml_project.ipynb   # Jupyter Notebook
+├─ human_vital_signs_dataset_2024.csv   # Dataset
+├─ README.md                            # Project description
+├─ requirements.txt                     # Python dependencies
